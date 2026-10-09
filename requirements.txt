@@ -1,0 +1,5 @@
+# Tech0星図で使う外部ライブラリ
+# インストール： pip install -r requirements.txt
+streamlit
+pydeck
+scikit-learn
